@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"892c5fe5141992184b62a7fb10823419","lockfileHash":"adb085e0dfb7eb0f5820476a06e72a32","guessedImports":["express","@distube/soundcloud","@distube/yt-dlp","@distube/spotify","@distube/deezer","${config.commandsDir}","discord.js","mongoose","distube"],"guessedImportsHash":"648b3af0a4c53850152b287d108b4887"}}}
